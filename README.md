@@ -2,9 +2,9 @@
 
 COMPANY  : CODTECH IT SOLUTIONS
 
-NAME     : CHOUTURI SRAVANTHI
+NAME     : TANNIRU HARSHTHA
 
-INTERN ID: CT08DM988
+INTERN ID: CT08DN932
 
 DOMAIN   : MERN STACK WEB DEVELOPMENT
 
@@ -77,7 +77,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 
 
-git clone https://github.com/moparthimanasa/REAL-TIME-CHAT-APPLICATION.git
+git clone https://github.com/harshitha265/REAL-TIME-CHAT-APPLICATION.git
 
 ### Backend Setup (Node.js + Socket.IO)
 
